@@ -1,0 +1,8 @@
+*.exe
+*.o
+*.obj
+.vscode/
+*.code-workspace
+build/
+bin/
+obj/
