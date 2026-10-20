@@ -1,4 +1,4 @@
-Module 1 OpenGL Workspace
+OpenGL Workspace
 
 1. Open this folder in Visual Studio Code.
 2. Put each exercise source file in the M1 folder, for example Q01.cpp.
